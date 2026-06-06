@@ -1,0 +1,6 @@
+{
+  "name": "Sana Mascota",
+  "description": "Administración y venta de comida natural para mascotas con calculadora inteligente de costos de envío por GPS/Haversine y sincronizador Supabase con WhatsApp.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
